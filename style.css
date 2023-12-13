@@ -1,7 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding-top: 0;
+    margin: 0%;
 }
 
 h1 {
@@ -12,23 +11,27 @@ h3 {
     font-size: 40px;
 }
 
+.dream-big {
+    margin: 5%;
+}
+
 .orange-color {
     color: orange;
 }
 
 .top-banner {
-    width: 100%;
+    width: 80%;
     background-image: url(developer.png);
     background-repeat: no-repeat;
 }
 
 .flexible-container {
     display: flex;
-    margin: 100px;
+    margin: 100%;
 }
 
 .half-width {
-    width: 50%;
+    width: 100%;
     padding-left: 5%;
 }
 
